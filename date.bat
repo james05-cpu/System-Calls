@@ -1,0 +1,2 @@
+::show date
+echo %date%
